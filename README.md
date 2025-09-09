@@ -4,11 +4,11 @@
 
 Currently building:
 - 🎵 **VibeMint V2** – mood-based playlist generator  
-  [Live](https://www.vibemint.online) | [Code](https://github.com/vibemint/vibemint-v2)
+  [Live](https://www.vibemint.online) 
 
-Creators’ origin story:
+Original story:
 - 🎶 **VibeMint V1** – original prototype  
-  [Live](https://vibemint.onrender.com) | [Code](https://github.com/vibemint/vibemint)
+  [Live](https://vibemint.onrender.com)
 
 Also: Product Owner @ Aksigorta – crafting digital platforms and B2B web solutions.
 
