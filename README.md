@@ -1,16 +1,16 @@
-## Hi there 👋
+# Hi, I’m Yasin 👋
 
-<!--
-**vibemint/vibemint** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+**Product Owner & Indie SaaS Builder** — blending tech, AI, and music.
 
-Here are some ideas to get you started:
+Currently building:
+- 🎵 **Vibemint V2** – mood-based playlist generator  
+  [Live](https://www.vibemint.online) | [Code](https://github.com/vibemint/vibemint-v2)
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+Creators’ origin story:
+- 🎶 **Vibemint V1** – original prototype  
+  [Live](https://vibemint.onrender.com) | [Code](https://github.com/vibemint/vibemint)
+
+Also: Product Owner @ Aksigorta – crafting digital platforms and B2B web solutions.
+
+—  
+[LinkedIn](https://www.linkedin.com/in/yasin-caliskan) | caliskan.yasin@icloud.com
